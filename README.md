@@ -1,4 +1,4 @@
-# Data Mining Course Project -- New Clustering Algorithm
+# Data Mining Course Project -- Objective Oriented Clustering Algorithm
 
 This is my final project of the data mining course When I studied at Sun Yat-sen University.
 
