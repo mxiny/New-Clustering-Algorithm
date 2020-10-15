@@ -7,5 +7,5 @@ Inspired by the famous paper "Clustering by fast search and find of density peak
 - For a specific sample p, a sample q which is similar to p should belong to the same class as p. 
 - For a specific class, all samples belonging to this class should be as similar as possible to the class center. 
 
-According to the above guidelines, I designed a proper objective function and apply the gradient descending algorithm to obtain category indicators. The results on 3 real-world datasets demonstrate the efficiency of this algorithm.
+According to the above guidelines, I designed a proper objective function and apply the gradient descending algorithm to obtain category indicators. The results on real-world datasets demonstrate the efficiency of this algorithm.
 
